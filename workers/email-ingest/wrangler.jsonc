@@ -1,0 +1,9 @@
+{
+  "name": "tenderwerk-email-ingest",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-05-25",
+  "observability": { "enabled": true },
+  "vars": {
+    "SUPABASE_INGEST_ENDPOINT": "<SUPABASE_EDGE_FUNCTION_EMAIL_INGEST_URL>"
+  }
+}

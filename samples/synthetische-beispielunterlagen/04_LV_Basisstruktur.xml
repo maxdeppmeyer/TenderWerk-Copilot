@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DemoTender disclaimer="NUR DEMONSTRATIONSUNTERLAGE – KEINE ECHTE AUSSCHREIBUNG">
+  <TenderId>TW-DEMO-2026-001</TenderId>
+  <Lot id="1" name="Unterhaltsreinigung">
+    <Item number="1.1" unit="m2/Monat" quantity="4200">Büroräume reinigen</Item>
+    <Item number="1.2" unit="m2/Monat" quantity="380">Sanitärbereiche reinigen</Item>
+  </Lot>
+</DemoTender>

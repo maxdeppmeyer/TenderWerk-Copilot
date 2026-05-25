@@ -1,0 +1,12 @@
+NUR DEMONSTRATIONSUNTERLAGE – KEINE ECHTE AUSSCHREIBUNG
+Fiktive Vergabestelle Musterstadt – Vorgang TW-DEMO-2026-001
+
+Für Los 1 sind mit dem Angebot einzureichen:
+1. Nachweis einer gültigen Betriebshaftpflichtversicherung.
+2. Referenzliste mit zwei vergleichbaren Unterhaltsreinigungsprojekten aus den letzten drei Jahren.
+3. Unterzeichnete Tariftreue-/Mindestlohnerklärung gemäß fiktivem Formblatt F-03.
+
+Für Los 2 sind zusätzlich Nachweise zur Bewachungsleistung erforderlich. Diese Angabe dient im Demo-Szenario zur Erkennung eines nicht passenden Loses.
+
+Prüfhinweis für die Demo:
+Die Referenzliste wurde dem fiktiven Dateipaket absichtlich nicht beigefügt. Das System soll sie als offenen Pflichtpunkt anzeigen.
